@@ -41,7 +41,7 @@ def afficherScore():
     fen_score.destroy()
     fen_score=Frame(fen)
     try:
-        Label(fen_score,text="Pseudo").grid(row=1,column=0)
+        Label(fen_score,text="Name").grid(row=1,column=0)
         Label(fen_score,text="Score").grid(row=1,column=1)
         i=2
         with open('scores.csv',newline='') as csvfile:
