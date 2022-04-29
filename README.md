@@ -1,5 +1,5 @@
 # Snake
-Snake game HMI built in Python with a leaderboard using Tkinter.
+Snake game HMI built with Python including a leaderboard using Tkinter.
 
 ![0](https://github.com/PouletEnSlip/Snake/blob/main/snake.png)
 
